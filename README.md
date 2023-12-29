@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **JavaScript,reactJs,**
+- 💬 Ask me about **JavaScript, ReactJs, Express, MongoDB, NodeJs**
 
 - 📫 How to reach me **itsmanishsingh6@gmail.com**
 
